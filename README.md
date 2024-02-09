@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 
 Hello, World! 👋
 Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.
@@ -46,4 +46,10 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
   - ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+-->
+<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+<h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@devopsshack</h3>
+
+
+
 
