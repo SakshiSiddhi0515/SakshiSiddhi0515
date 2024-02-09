@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 <a href="https://instagram.com/sakshipekhale_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies & languages
   [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,react,angular,django,nodejs,expressjs,javascript,typescript,mongodb,mysql,postman&perline=8)](https://skillicons.dev)
-## Utilities and Tools
+## 🚀 Utilities and Tools
   [![My Skills](https://skillicons.dev/icons?i=visualstudio,selenium,figma,autocad)](https://skillicons.dev)
-## Version Control and Deployments
+## 🚀 Version Control and Deployments
   [![My Skills](https://skillicons.dev/icons?i=git,github,bash,aws,heroku,gcp)](https://skillicons.dev)
