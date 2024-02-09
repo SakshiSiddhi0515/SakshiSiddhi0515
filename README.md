@@ -4,6 +4,9 @@
 
 
 
+
+
+
 - 🔭 I’m currently working on E-commerce website development project including MEAN stack and deployment through AWS 
 - 🌱 I’m currently learning foundational basics and advances of Amazon web service technologies
 - 👯 I’m looking to collaborate on any good scope full stack projects that involve robust backend technologies
