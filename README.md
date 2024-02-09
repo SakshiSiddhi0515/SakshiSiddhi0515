@@ -48,7 +48,8 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
   - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 -->
 <h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<h3 align="center">A passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.
+<h3 align="center">A passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.</h3>
+
 
 
 - 🔭 I’m currently working on website development project including MEAN stack and deployment through AWS 
