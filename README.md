@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey Everyone 👋, I'm Sakshi Sujit Pekale</h1>
+<h1 align="center">Hey Everyone 👋, I'm Sakshi </h1>
 <h3 align="center">A passionate software developer and UI/UX designer with expertise in the MERN and MEAN tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.</h3>
 
 
