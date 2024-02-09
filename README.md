@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Developer and UI/UX Designer Portfolio
 
-## Hello, World! 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.
-
+Hello, World! 👋
+Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.
 ## 🚀 Technologies & Tools
 
 - **Frontend**: 
