@@ -65,4 +65,4 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 
 
 ## 🚀 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,nodejs,react,angular,django,)](https://skillicons.dev)
