@@ -1,21 +1,6 @@
 
 
 <!--
-**SakshiSiddhi0515/SakshiSiddhi0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
 
 Hello, World! 👋
 Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer and UI/UX designer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) and MEAN (MongoDB, Express.js, Angular, Node.js) tech stacks. I love crafting seamless and intuitive user experiences while building robust and scalable applications.
@@ -52,10 +37,10 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 
 
 
-- 🔭 I’m currently working on website development project including MEAN stack and deployment through AWS 
+- 🔭 I’m currently working on E-commerce website development project including MEAN stack and deployment through AWS 
 - 🌱 I’m currently learning foundational basics and advances of Amazon web service technologies
 - 👯 I’m looking to collaborate on any good scope full stack projects that involve robust backend technologies
-- 🤔 I’m looking for help with a learnig how to facilitate the UIUX approach in a software/application development
+- 🤔 I’m looking for help with a learning how to facilitate the UIUX approach in a software/application development
 - 📫 How to reach me **ss.pekhale2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -65,4 +50,17 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 
 
 ## 🚀 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,nodejs,react,angular,django,)](https://skillicons.dev)
+- **Programming Languages**: 
+  [![My Skills](https://skillicons.dev/icons?i=python,java,c++,html,css)](https://skillicons.dev)
+- **Frontend Frameworks**: 
+  [![My Skills](https://skillicons.dev/icons?i=react,angular,django)](https://skillicons.dev)
+- **Backend**: 
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,javascript,typescript)](https://skillicons.dev)
+- **Database**: 
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,oracledb,mysql)](https://skillicons.dev)
+- **UI/UX Design**: 
+  [![My Skills](https://skillicons.dev/icons?i=sketch,figma,adobe,balsamiq,mockups)](https://skillicons.dev)
+- **Version Control**: 
+  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+- **Deployment**: 
+  [![My Skills](https://skillicons.dev/icons?i=aws,heroku,netify)](https://skillicons.dev)
