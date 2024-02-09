@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 
 
 - 🔭 I’m currently working on website development project including MEAN stack and deployment through AWS 
-- 🌱 I’m currently learning foundational basics and advance Amazon web services technologies
+- 🌱 I’m currently learning foundational basics and advances of Amazon web service technologies
 - 👯 I’m looking to collaborate on any good scope full stack projects that involve robust backend technologies
 - 🤔 I’m looking for help with a learnig how to facilitate the UIUX approach in a software/application development
 - 📫 How to reach me **ss.pekhale2000@gmail.com**
