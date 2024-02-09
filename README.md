@@ -50,8 +50,9 @@ Welcome to my GitHub profile! I'm Sakshi Pekale, a passionate software developer
 
 
 ## 🚀 Technologies & Tools
-  [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,react,angular,django,nodejs,expressjs,javascript,typescript,mongodb,oracle,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,bootstrap,react,angular,django,nodejs,expressjs,javascript,typescript,mongodb,mysql,postman&perline=8)](https://skillicons.dev)
+
 ## UI/UX Tools
-  [![My Skills](https://skillicons.dev/icons?i=sketch,figma,adobe,balsamiq,mockups)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,autocad)](https://skillicons.dev)
 ## Version Control and Deployments
-  [![My Skills](https://skillicons.dev/icons?i=git,github,aws,heroku,netify)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,aws,heroku,netify,gcp)](https://skillicons.dev)
