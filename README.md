@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning foundational basics and advances of Amazon web service technologies
 - 👯 I’m looking to collaborate on any good scope full stack projects that involve robust backend technologies
 - 🤔 I’m looking for help with a learning how to facilitate the UIUX approach in a software/application development
-- 📫 How to reach me **ss.pekhale2000@gmail.com**
+- 📫 How to reach me **sakshisujit0512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
